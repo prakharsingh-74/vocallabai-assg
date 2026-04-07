@@ -1,0 +1,9 @@
+{
+  "DEEPGRAM_API_KEY": "LOADED_FROM_ENV",
+  "GROQ_API_KEY": "LOADED_FROM_ENV",
+  "DEEPGRAM_PROJECT_ID": "LOADED_FROM_ENV",
+  "hotkey": "Right Alt",
+  "language": "en-US",
+  "model": "nova-2",
+  "refine_with_groq": true
+}
