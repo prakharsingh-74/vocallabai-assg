@@ -29,20 +29,6 @@ A lightweight Windows system tray application that lets you dictate into any tex
    npm install
    ```
 
-## Configuration
-
-Before running the app, update `config.json` with your API keys:
-
-```json
-{
-  "DEEPGRAM_API_KEY": "your_api_key_here",
-  "GROQ_API_KEY": "your_api_key_here",
-  "DEEPGRAM_PROJECT_ID": "your_project_id_here",
-  "hotkey": "Right Alt",
-  "refine_with_groq": true
-}
-```
-
 ## Running the App
 
 Start the application in development mode:
