@@ -22,7 +22,7 @@ A lightweight Windows system tray application that lets you dictate into any tex
 1. Clone or download this repository.
 2. Navigate to the `windows-port` directory:
    ```powershell
-   cd windows-port
+   cd vocallabai-assg
    ```
 3. Install dependencies:
    ```powershell
