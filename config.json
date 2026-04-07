@@ -1,7 +1,7 @@
 {
-  "DEEPGRAM_API_KEY": "LOADED_FROM_ENV",
-  "GROQ_API_KEY": "LOADED_FROM_ENV",
-  "DEEPGRAM_PROJECT_ID": "LOADED_FROM_ENV",
+  "DEEPGRAM_API_KEY": "388c9379fbe212fb6274a32147740fdff9f6ec70",
+  "GROQ_API_KEY": "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",
+  "DEEPGRAM_PROJECT_ID": "53a82e3a-4d7a-49e1-aac3-8f735c5562e2",
   "hotkey": "Right Alt",
   "language": "en-US",
   "model": "nova-2",
